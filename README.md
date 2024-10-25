@@ -2,6 +2,8 @@
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
+### NAME : VINOTH M P
+### REG NO : 212223240182
 ## ALGORITHM:
 1. Import the necessary modules in python
 2. Create a socket connection to using the socket module.
@@ -31,8 +33,8 @@ while True:
     c.send(ClientMessage.encode())
 ```
 ## OUPUT
-![image](https://github.com/user-attachments/assets/d73566fa-7659-4c34-99f9-3ed7837050c2)
-![image](https://github.com/user-attachments/assets/bbfc6199-f60b-4959-b3f3-236aa16288b3)
+![image](https://github.com/user-attachments/assets/a37b158b-7ce1-4d94-8dea-82552761a719)
+![image](https://github.com/user-attachments/assets/30528e9f-0249-4ca3-ac29-586584ca5db7)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
